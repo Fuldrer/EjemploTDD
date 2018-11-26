@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="tdd.demo" duration-ms="4" started-at="2018-11-26T19:02:36Z" finished-at="2018-11-26T19:02:36Z">
+    <groups>
+    </groups>
+    <test name="TestNG tests" duration-ms="4" started-at="2018-11-26T19:02:36Z" finished-at="2018-11-26T19:02:36Z">
+    </test> <!-- TestNG tests -->
+  </suite> <!-- tdd.demo -->
+</testng-results>
